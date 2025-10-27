@@ -2,7 +2,6 @@
 ## Bem vindo ao meu perfil do GitHub!
 
 #### :school: Atualmente no terceiro ano do ensino médio de Desenvolvimento de Sistemas.
-#### Acesse meu <a href="https://portfoliobryankauan.netlify.app/" target="_blank">portfólio</a> com acesso a diversos projetos e habilidades minhas.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=braiatenebras&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
