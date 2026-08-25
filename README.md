@@ -1,7 +1,7 @@
 ## Olá, meu nome é Bryan Kauan! 👋
 ## Bem vindo ao meu perfil do GitHub!
 
-#### :school: Atualmente cursando Análise e Desenvolvimento de Sistemas na PucPR
+#### :school: Atualmente cursando Análise e Desenvolvimento de Sistemas na PUCPR
 
 ##### Trying to be better
 
